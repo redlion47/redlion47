@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+redlion47
+katoo.eric@gmail.com
 <!--
 **redlion47/redlion47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
